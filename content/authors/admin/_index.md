@@ -4,11 +4,11 @@ title: Dr
 
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: Nath JC
 
 # Full name (for SEO)
 first_name: Nath 
-last_name: Chand
+last_name: JC
 
 # Status emoji
 status:
@@ -18,11 +18,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Dr of all things tech
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Life University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -55,4 +55,4 @@ highlight_name: true
 website: ""
 ---
 
-Nath Chan is a chad who loves crypto. 
+Nath JC is a chad who loves crypto. 
