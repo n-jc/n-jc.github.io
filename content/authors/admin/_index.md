@@ -55,4 +55,4 @@ highlight_name: true
 website: ""
 ---
 
-Nath JC is a chad who loves crypto. 
+Nath JC is a chad who loves crypto, coffee and almond croissants!
