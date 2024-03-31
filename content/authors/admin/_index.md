@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Dr
+title: Dr N JC
 
 
 # Name pronunciation (optional)
-name_pronunciation: Nath JC
+name_pronunciation: N JC
 
 # Full name (for SEO)
-first_name: Nath 
+first_name: N 
 last_name: JC
 
 # Status emoji
@@ -55,4 +55,4 @@ highlight_name: true
 website: ""
 ---
 
-Nath JC is a chad who loves crypto, coffee and almond croissants!
+N-JC is a chad who loves crypto, coffee and almond croissants!
